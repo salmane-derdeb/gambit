@@ -1,2 +1,2 @@
 # gambit
-3d animation &amp; graphics
+3d animation &amp; graphics Company
